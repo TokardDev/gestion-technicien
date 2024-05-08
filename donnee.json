@@ -1,0 +1,24 @@
+{
+  "question": {
+    "texteQuestion": "C'est la réponse D",
+    "id": 1
+  },
+  "reponses": [
+    {
+      "idReponse": 1,
+      "txt": "La réponse A"
+    },
+    {
+      "idReponse": 2,
+      "txt": "La réponse D"
+    },
+    {
+      "idReponse": 3,
+      "txt": "La réponse A"
+    },
+    {
+      "idReponse": 4,
+      "txt": "La réponse C"
+    }
+  ]
+}

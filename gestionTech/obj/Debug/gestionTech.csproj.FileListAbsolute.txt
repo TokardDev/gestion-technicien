@@ -1,0 +1,14 @@
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\bin\Debug\gestionTech.exe.config
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\bin\Debug\gestionTech.exe
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\bin\Debug\gestionTech.pdb
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\bin\Debug\Google.Protobuf.dll
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\bin\Debug\MySql.Data.xml
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\obj\Debug\gestionTech.csproj.AssemblyReference.cache
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\obj\Debug\projetSlamTest.Form1.resources
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\obj\Debug\projetSlamTest.Login.resources
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\obj\Debug\projetSlamTest.Properties.Resources.resources
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\obj\Debug\gestionTech.csproj.GenerateResource.cache
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\obj\Debug\gestionTech.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\obj\Debug\gestionT.D5367018.Up2Date
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\obj\Debug\gestionTech.exe
+C:\Users\adrie\Documents\GitHub\projetSlamTest\gestionTech\obj\Debug\gestionTech.pdb
